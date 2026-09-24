@@ -1,42 +1,41 @@
-<div align="center">
+# Christopher | Software Developer
 
-# ¡Hola mundo! Soy Christopher 👋
-### 💻 Software Developer | Apasionado por la tecnología y el desarrollo de software
+Desarrollador de software enfocado en la creación de aplicaciones web, servicios backend y arquitecturas escalables utilizando Java, Spring Boot y el ecosistema TypeScript.
 
-[![Portfolio](https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/ChrstDev/Portfolio-Christopher)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@ejemplo.com)
-
-</div>
+[Mi Portafolio](https://github.com/ChrstDev/Portfolio-Christopher) • [LinkedIn](https://linkedin.com) • [Contacto](mailto:tu_correo@ejemplo.com)
 
 ---
 
-### 🚀 Sobre mí
+### Perfil Profesional
 
-- 🔭 **Actualmente trabajando en:** Proyectos personales de desarrollo web y aplicaciones de software.
-- 🌱 **En constante aprendizaje:** Profundizando en arquitecturas modernas y buenas prácticas de código.
-- 💡 **Intereses:** Desarrollo Frontend, Backend, soluciones móviles y desarrollo ágil.
-- 🎯 **Meta:** Crear software escalable, eficiente y con excelente experiencia de usuario.
+- **Enfoque técnico:** Desarrollo de software con énfasis en arquitecturas backend, APIs REST y buenas prácticas de programación orientada a objetos.
+- **Frontend & Web:** Construcción de interfaces ligeras y eficientes utilizando TypeScript, JavaScript y Astro.
+- **Intereses actuales:** Arquitectura de microservicios, optimización de consultas y patrones de diseño de software.
+- **Colaboración:** Abierto a participar en proyectos open-source y desarrollo de productos tecnológicos.
 
 ---
 
-### 🛠️ Habilidades y Tecnologías
+### Stack Tecnológico
 
-#### 📌 Lenguajes de Programación
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-#### 🌐 Frameworks & Tecnologías Web
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+#### Frameworks & Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+</p>
 
-#### ⚙️ Herramientas & Entornos
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
+#### Herramientas & Control de Versiones
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
