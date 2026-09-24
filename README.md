@@ -1,6 +1,4 @@
-<div align="center">
-# Christopher | Software Developer
-</div>
+<h1 align="center">Christopher | Software Developer</h1>
 
 Desarrollador de software enfocado en la creación de aplicaciones web, servicios backend y arquitecturas escalables utilizando Java, Spring Boot y el ecosistema TypeScript.
 
